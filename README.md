@@ -1,9 +1,13 @@
-NSConf Argentina 2014 - Multipeer Connectivity Demo
-===================================================
+NSConf Argentina 2014
+=====================
+
+Multipeer Connectivity Demo
+---------------------------
 
 Demo de la charla de Multipeer Connectivity dada en el NSConf Argentina 2014 en la UP.
 
-== Advertiser ==
+Advertiser
+----------
 
 Cuando la aplicación es iniciada desde un iPad, comienza en modo Advertiser, notificando a cualquier dispositivo que esté en modo Browser que el servicio está corriendo en este dispositivo.
 
@@ -17,7 +21,8 @@ La aplicación además puede detectar la conexión de una pantalla externa. Ante
 
 ![Captura de pantalla de iPad](doc/ipad.jpg)
 
-== Discovery ==
+Browser
+-------
 
 Cuando la aplicación es iniciada desde un iPhone, comienza en modo Browser, buscando dispositivos que estén notificando un servicio en modo advertiser.
 
